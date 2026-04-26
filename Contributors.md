@@ -25,14 +25,13 @@ Early build script improvements
 ---
 
 ## Liudee@coolapk  
-**（需要你的github用户名来co-author你的贡献 / Need your GitHub username to co-author your contribution）**  
 作出magisk模块，方便OTA  
 Created the Magisk module to facilitate OTA  
 
-相关提交 / Related commit:  
-[https://github.com/superturtlee/gbl_root_canoe/commit/8508e79c37d1b4d8e86ae3914f0a3fe63fea0e2c](https://github.com/superturtlee/gbl_root_canoe/commit/8508e79c37d1b4d8e86ae3914f0a3fe63fea0e2c)  
-（magisk模块webui/脚本 / Magisk module webui/script）  
-**请认领你的贡献 / Please claim your contribution**
+---
+
+## NanCunChild@github
+docker构建脚本
 
 ---
 
